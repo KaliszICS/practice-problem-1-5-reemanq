@@ -5,7 +5,7 @@ def q1():
   #Write Assignment code here
 
 def q2():
-  b = float(input("Input a number: ")) + 4
+  b = input("Input a number: ")) + 4
   print(float(b) + 2)
   #Write Assignment code here
 
