@@ -5,7 +5,7 @@ def q1():
   #Write Assignment code here
 
 def q2():
-  b = input("Input a number: ")) + 4
+  b = input("Input a number: ") + 4
   print(float(b) + 2)
   #Write Assignment code here
 
@@ -22,7 +22,7 @@ def q4():
 
 def q5():
   e = int(input("Input an integer: ")) + 5
-  print("Your number + 5 is",e)
+  print(f"Your number + 5 is {e}")
   #Write Assignment code here
 
 #Comment this code out when running tests
