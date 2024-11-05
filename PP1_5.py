@@ -6,8 +6,7 @@ def q1():
 
 def q2():
   b = input("Input a number: ") + 4
-  b = float(b) + 2
-  print(b)
+  print(float(b) + 2)
   #Write Assignment code here
 
 def q3():
