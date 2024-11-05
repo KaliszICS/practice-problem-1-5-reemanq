@@ -28,8 +28,8 @@ def q5():
 #Comment this code out when running tests
 #Do not comment this out when running your program normally
 
-q1()
-q2()
-q3()
-q4()
-q5()
+# q1()
+# q2()
+# q3()
+# q4()
+# q5()
